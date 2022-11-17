@@ -46,9 +46,11 @@
   
 # 👩‍💻사용가능한 프로그램
 
+  - Virtual Box
   - Photoshop
   - Illustrator
-  - Premiere Pro   
+  - Premiere Pro 
+  - InDesign
   
 # 🏅수상 및 자격증
      
