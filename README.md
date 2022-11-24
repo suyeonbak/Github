@@ -1,7 +1,7 @@
 # 😃인적사항   
 ***
 
-<image src = suyeon.jpg height=200 width=200>  
+<image src = suyeon.jpg height=389 width=507>  
 
   
   이름: 박수연   
